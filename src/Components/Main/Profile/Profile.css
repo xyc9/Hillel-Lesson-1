@@ -1,6 +1,7 @@
 .profile-page{
     display: grid;
-    align-items: center;
+    justify-content: center;
+    align-items: flex-start;
     grid-template-columns: 1fr 3fr;
     padding: 70px 0;
 }
