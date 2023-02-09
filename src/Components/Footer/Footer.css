@@ -1,0 +1,16 @@
+footer{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #003153;
+    color:white;
+    align-items: center;
+
+}
+.footer__logo{
+    width: 100px;
+    height: 100px;
+
+
+}

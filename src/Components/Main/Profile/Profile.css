@@ -1,0 +1,19 @@
+.profile-page{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 3fr;
+    padding: 70px 0;
+}
+.avatar{
+    max-width: 200px;
+}
+.profile__header{
+    text-align: center;
+}
+.profile__name{
+    font-weight: 300;
+    font-size: 24px;
+}
+.about-profile p {
+    padding: 10px 0;
+}
